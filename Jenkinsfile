@@ -2,4 +2,5 @@
 
 env.COMPONENT="user"
 env.APP_TYPE="nodejs"
-nodejs()
+// nodejs()
+docker()
